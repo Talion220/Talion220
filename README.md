@@ -4,6 +4,7 @@
 
 <h3 align="left">A Front-end developer from Krasnoyarsk.</h3>
 
+</br>
 
 <p align="left" style="display: inline-block; width: 60%;">
   I like to create beautiful and functional web applications using modern technologies 
@@ -13,7 +14,7 @@
 </p>
 
 
-
+</br>
 </br>
 </br>
 
