@@ -1,21 +1,14 @@
 <h1 align="left">:wave: Konichiwa! I'm Vladislav Harchenko</h1>
 <h3 align="left">A Front-end developer from Krasnoyarsk.</h3>
 
-<table>
-  <tr>
-    <td>
-      <p>
-        I like to create beautiful and functional web applications using modern technologies 
-        and approaches. I strive for high performance and usability in my work. 
-        I believe that the right approach to development and attention to detail can make 
-        web applications not only useful but also enjoyable for the user.
-      </p>
-    </td>
-    <td>
-      <img width="300" alt="GIF" src="https://gifdb.com/images/high/asta-gif-file-1713kb-d94kd51mouutza1k.webp">
-    </td>
-  </tr>
-</table>
+<p align="left" style="display: inline-block; width: 60%;">
+  I like to create beautiful and functional web applications using modern technologies 
+  and approaches. I strive for high performance and usability in my work. 
+  I believe that the right approach to development and attention to detail can make 
+  web applications not only useful but also enjoyable for the user.
+</p>
+<img align="right" width="300" alt="GIF" src="https://gifdb.com/images/high/asta-gif-file-1713kb-d94kd51mouutza1k.webp">
+
 
 </br>
 </br>
