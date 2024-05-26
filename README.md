@@ -1,5 +1,5 @@
 <h1 align="left">:wave: Konichiwa! I'm Vladislav Harchenko</h1>
-<p>Front-end developer from Krasnoyarsk.</p>
+<h3 align="center">A Front-end developer from Krasnoyarsk.</h3>
 <div align="center">
 <img width="300" alt="GIF" align="center" src="https://gifdb.com/images/high/asta-gif-file-1713kb-d94kd51mouutza1k.webp">
 </div>
