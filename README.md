@@ -137,8 +137,6 @@
       </a>
       <br>Bootstrap
     </td>
-  </tr> 
-    <tr>
      <td align="center" width="110" height="90"> 
       <a href="#stack" >
         <img src="https://user-images.githubusercontent.com/54295964/149887770-4a30e3fa-2bd2-46a3-adb3-e5a9546c96f2.png" width="36" height="36" alt="Mantine" />
