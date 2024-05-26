@@ -1,7 +1,9 @@
 <h1 align="left">:wave: Konichiwa! I'm Vladislav Harchenko</h1>
-<h3 align="left">A Front-end developer from Krasnoyarsk.</h3>
 
 <img align="right" width="300" alt="GIF" src="https://gifdb.com/images/high/asta-gif-file-1713kb-d94kd51mouutza1k.webp">
+
+<h3 align="left">A Front-end developer from Krasnoyarsk.</h3>
+
 
 <p align="left" style="display: inline-block; width: 60%;">
   I like to create beautiful and functional web applications using modern technologies 
