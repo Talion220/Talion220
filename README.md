@@ -17,37 +17,37 @@
       <a href="#stack">
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" width="36" height="36" alt="javascript" />
       </a>
-      <br>javascript
+      <br>JavaScript
     </td>
     <td align="center" width="110" height="90">
       <a href="#stack">
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" width="36" height="36" alt="typescript" />
       </a>
-      <br>typescript
+      <br>TypeScript
     </td>
         <td align="center" width="110" height="90">
       <a href="#stack">
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="36" height="36" alt="Html5" />
       </a>
-      <br>Html5
+      <br>HTML5
     </td>
          <td align="center" width="110" height="90"> 
       <a href="#stack" >
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="36" height="36" alt="css3" />
       </a>
-      <br>Css3
+      <br>CSS3
     </td>
     <td align="center" width="110" height="90">
       <a href="#stack" >
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" width="36" height="36" alt="figma" />
       </a>
-      <br>figma
+      <br>Figma
     </td>
     <td align="center" width="110" height="90">
       <a href="#stack">
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" width="36" height="36" alt="git" />
       </a>
-      <br>git
+      <br>Git
     </td>
     <td align="center" width="110" height="90"> 
       <a href="#stack">
@@ -59,14 +59,14 @@
       <a href="#stack" >
         <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="36" height="36" alt="github" />
       </a>
-      <br>github
+      <br>GitHub
     </td>
     </td>
      <td align="center" width="110" height="90"> 
       <a href="#stack" >
         <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" width="36" height="36" alt="gitlab" />
       </a>
-      <br>gitlab
+      <br>GitLab
     </td>
   </tr> 
 </table>
@@ -98,13 +98,13 @@
       <a href="#stack">
         <img src="https://brandeps.com/icon-download/E/Eslint-icon-vector-02.svg" width="36" height="36" alt="eslint" />
       </a>
-      <br>eslint
+      <br>ESLint
     </td>
     <td align="center" width="110" height="90">
       <a href="#stack">
         <img src="https://brandeps.com/icon-download/P/Prettier-icon-vector-02.svg" width="36" height="36" alt="prettier" />
       </a>
-      <br>prettier
+      <br>Prettier
     </td>
   </tr> 
 </table>
