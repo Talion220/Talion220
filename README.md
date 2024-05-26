@@ -218,3 +218,12 @@
   </tr> 
 </table>
 
+## ✉️ Contact
+
+- :bird: &nbsp;**[VK](https://vk.com/what_iss_love)**
+- :airplane: &nbsp;**[Telegram](https://t.me/Talion220)**
+- :robot: &nbsp;**[E-mail](vladislav.harchenko2017@yandex.ru)**
+- :comet: &nbsp;**[GitHub](https://github.com/Talion220)**
+- :comet: &nbsp;**[GitLab](https://gitlab.com/vladislav.harchenko2017)**
+
+<br>
