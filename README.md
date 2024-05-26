@@ -6,14 +6,14 @@
 
 </br>
 
-<p align="left" style="display: inline-block; width: 40%;">
+<p align="left" >
   I like to create beautiful and functional web applications using modern technologies 
   and approaches. I strive for high performance and usability in my work. 
   I believe that the right approach to development and attention to detail can make 
   web applications not only useful but also enjoyable for the user.
 </p>
 
-
+</br>
 </br>
 </br>
 </br>
