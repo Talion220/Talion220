@@ -2,7 +2,10 @@
 <h3 align="left">A Front-end developer from Krasnoyarsk.</h3>
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
-    <p>Hi! I am Vladislav Kharchenko, a frontend developer from Krasnoyarsk. I like to create beautiful and functional web applications using modern technologies and approaches.</p>
+    <p>      I like to create beautiful and functional web applications using modern technologies 
+      and approaches. I strive for high performance and usability in my work. 
+      I believe that the right approach to development and attention to detail can make 
+      web applications not only useful but also enjoyable for the user.</p>
   </div>
   <div style="flex: 1; text-align: right;">
     <img width="300" alt="GIF" src="https://gifdb.com/images/high/asta-gif-file-1713kb-d94kd51mouutza1k.webp">
