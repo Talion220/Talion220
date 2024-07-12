@@ -1,4 +1,4 @@
-<h1 align="left">:wave: Konichiwa! I'm Vladislav Harchenko</h1>
+<h1 align="left">:wave: Hi! I'm Vladislav Harchenko</h1>
 
 <img align="right" width="250" alt="GIF" src="https://gifdb.com/images/high/asta-gif-file-1713kb-d94kd51mouutza1k.webp">
 
