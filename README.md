@@ -124,6 +124,12 @@
 
 <table width='100%'>
   <tr>
+    <td align="center" width="110" height="90">
+      <a href="#stack">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" width="36" height="36" alt="Vue" />
+      </a>
+      <br>Vue
+    </td>
    <td align="center" width="110" height="90">
       <a href="#stack">
         <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="36" height="36" alt="React" />
