@@ -1,10 +1,10 @@
-<h1 align="left">:wave: Hi! I'm Vladislav Harchenko</h1>
+<h2 align="left">:wave: Hi! I'm Vladislav Harchenko</h2>
 
 <h3 align="left">A Front-end developer from Krasnoyarsk.</h3>
 
 <img  width="150" alt="GIF" src="https://gifdb.com/images/high/asta-gif-file-1713kb-d94kd51mouutza1k.webp">
 
-<h2 align="left" id="stack">🔥 Tech stack</h2>
+<h3 align="left" id="stack">🔥 Tech stack</h3>
 
 > General
 
@@ -219,7 +219,7 @@
   </tr> 
 </table>
 
-## ✉️ Contact
+ <h3>✉️ Contact</h3>
 
 - :bird: &nbsp;**[VK](https://vk.com/what_iss_love)**
 - :airplane: &nbsp;**[Telegram](https://t.me/Talion220)**
