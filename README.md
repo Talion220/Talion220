@@ -3,16 +3,9 @@
 <img align="right" width="250" alt="GIF" src="https://gifdb.com/images/high/asta-gif-file-1713kb-d94kd51mouutza1k.webp">
 
 <h3 align="left">A Front-end developer from Krasnoyarsk.</h3>
-
 </br>
-
-<p align="left" >
-  I like to create beautiful and functional web applications using modern technologies 
-  and approaches. I strive for high performance and usability in my work. 
-  I believe that the right approach to development and attention to detail can make 
-  web applications not only useful but also enjoyable for the user.
-</p>
-
+</br>
+</br>
 </br>
 </br>
 </br>
@@ -126,6 +119,12 @@
   <tr>
     <td align="center" width="110" height="90">
       <a href="#stack">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" width="36" height="36" alt="Nuxt" />
+      </a>
+      <br>Nuxt
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#stack">
         <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" width="36" height="36" alt="Vue" />
       </a>
       <br>Vue
@@ -172,7 +171,9 @@
       </a>
       <br>Vite
     </td> 
-    <td align="center" width="110" height="90">
+      </tr> 
+    <tr>
+      <td align="center" width="110" height="90">
       <a href="#stack">
         <img src="https://brandeps.com/icon-download/S/Sass-icon-vector-04.svg" width="36" height="36" alt="Sass" />
       </a>
@@ -184,8 +185,6 @@
       </a>
       <br>PostCSS
     </td>
-      </tr> 
-    <tr>
    <td align="center" width="110" height="90">
       <a href="#stack">
         <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="36" height="36" alt="Tailwind" />
