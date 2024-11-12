@@ -1,15 +1,8 @@
 <h1 align="left">:wave: Hi! I'm Vladislav Harchenko</h1>
 
-<img align="right" width="250" alt="GIF" src="https://gifdb.com/images/high/asta-gif-file-1713kb-d94kd51mouutza1k.webp">
-
 <h3 align="left">A Front-end developer from Krasnoyarsk.</h3>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
+
+<img  width="150" alt="GIF" src="https://gifdb.com/images/high/asta-gif-file-1713kb-d94kd51mouutza1k.webp">
 
 <h2 align="left" id="stack">🔥 Tech stack</h2>
 
