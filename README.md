@@ -46,12 +46,6 @@
       </a>
       <br>Git
     </td>
-    <td align="center" width="110" height="90"> 
-      <a href="#stack">
-        <img src="https://brandeps.com/icon-download/N/Npm-icon-vector-05.svg" width="36" height="36" alt="npm" />
-      </a>
-      <br>npm
-    </td>
      <td align="center" width="110" height="90"> 
       <a href="#stack" >
         <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="36" height="36" alt="github" />
@@ -183,38 +177,6 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="36" height="36" alt="Tailwind" />
       </a>
       <br>Tailwind
-    </td>
-  </tr> 
-</table>
-
-> Backend
-
-<table width='100%'>
-  <tr>
-    <td align="center" width="110" height="90"> 
-      <a href="#stack" >
-        <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="36" height="36" alt="PHP" />
-      </a>
-      <br>PHP
-    </td>
-    <td align="center" width="110" height="90"> 
-      <a href="#stack" >
-        <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" width="36" height="36" alt="Laravel" />
-      </a>
-      <br>Laravel
-    </td>
-  </tr> 
-</table>
-
-> CMS
-
-<table width='100%'>
-  <tr>
-    <td align="center" width="110" height="90">
-      <a href="#stack">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" width="36" height="36" alt="Wordpress" />
-      </a>
-      <br>Wordpress
     </td>
   </tr> 
 </table>
