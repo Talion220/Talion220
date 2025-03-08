@@ -1,4 +1,4 @@
-<h2 align="left">:wave: Hi! I'm Vladislav Harchenko</h2>
+<h2 align="left">:wave: Hi! I'm Vladislav Kharchenko</h2>
 
 <h3 align="left">A Front-end developer from Krasnoyarsk.</h3>
 
