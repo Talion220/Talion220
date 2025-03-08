@@ -180,12 +180,3 @@
     </td>
   </tr> 
 </table>
-
- <h3>✉️ Contact</h3>
-
-- :bird: &nbsp;**[VK](https://vk.com/what_iss_love)**
-- :airplane: &nbsp;**[Telegram](https://t.me/Talion220)**
-- 😺 &nbsp;**[GitHub](https://github.com/Talion220)**
-- 🦊 &nbsp;**[GitLab](https://gitlab.com/vladislav.harchenko2017)**
-
-<br>
